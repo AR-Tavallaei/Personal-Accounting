@@ -3,8 +3,8 @@
 
 تمامی هزینه ها در تاریخچه ثبت شده و قابلیت سرچ و فیلتر در آن ها وجود دارد و همچنین قابلیت گزارش گیری از هزینه های ماهانه یا سالانه هم ایجاد شده است. در این نرم افزار ویندوز می توان چند کاربر را ثبت کرد به گونه ای که اطلاعات جدا از هم داشته باشند.
 
-<img src=picturs/1.png" alt="picture1">
-<img src=picturs/2.png" alt="picture2">
-<img src=picturs/3.png" alt="picture3">
-<img src=picturs/4.png" alt="picture4">
-<img src=picturs/5.png" alt="picture5">
+<img src=pictures/1.png" alt="picture1">
+<img src=pictures/2.png" alt="picture2">
+<img src=pictures/3.png" alt="picture3">
+<img src=pictures/4.png" alt="picture4">
+<img src=pictures/5.png" alt="picture5">
