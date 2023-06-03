@@ -2,9 +2,17 @@
 این اپلیکیشن یک نرم افزار فارسی است که برای مدیریت هزینه های فرد و با استفاده از ماژول PyQt5 پایتون طراحی شده است که در آن می توان هزینه های روزانه را همراه با اطلاعات مختلف آنها، اطلاعات حساب های بانکی و ... ثبت کرد.
 
 تمامی هزینه ها در تاریخچه ثبت شده و قابلیت سرچ و فیلتر در آن ها وجود دارد و همچنین قابلیت گزارش گیری از هزینه های ماهانه یا سالانه هم ایجاد شده است. در این نرم افزار ویندوز می توان چند کاربر را ثبت کرد به گونه ای که اطلاعات جدا از هم داشته باشند.
+# Picture 1
+<img src="pictures/1.png" alt="picture1">
+                                       
+# Picture 2
+<img src="pictures/2.png" alt="picture2">
 
-<img src=pictures/1.png" alt="picture1">
-<img src=pictures/2.png" alt="picture2">
-<img src=pictures/3.png" alt="picture3">
-<img src=pictures/4.png" alt="picture4">
-<img src=pictures/5.png" alt="picture5">
+# Picture 3
+<img src="pictures/3.png" alt="picture3">
+
+# Picture 4
+<img src="pictures/4.png" alt="picture4">
+
+# Picture 5
+<img src="pictures/5.png" alt="picture5">
